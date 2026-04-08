@@ -1,0 +1,5 @@
+gym-api/venv/
+gym-api/.env
+gym-frontend/node_modules/
+__pycache__/
+*.pyc

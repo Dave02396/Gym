@@ -26,14 +26,6 @@ npm install
 npm run dev
 ```
 
-## Variables de entorno
-
-Crear archivo `.env` dentro de `gym-api/`:
-```
-DATABASE_URI=postgresql://postgres:TU_PASSWORD@localhost:5432/gym_db
-JWT_SECRET_KEY=tu_clave_secreta
-```
-
 ---
 
 ## Endpoints
